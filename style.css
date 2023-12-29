@@ -23,6 +23,7 @@ body {
 
 .card-contents {
     width: 95%;
+}
 
 .card {
     background-color: var(--White);
