@@ -23,7 +23,7 @@ body {
 
 .card {
     background-color: var(--White);
-    max-width: 95%;
+    max-width: 330px;
     border: 1px solid black;
     filter: drop-shadow(5px 5px 0px #000000); 
     border-radius: 25px;
