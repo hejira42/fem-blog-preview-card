@@ -21,10 +21,6 @@ body {
     box-sizing: border-box;
 }
 
-.card-contents {
-    width: 95%;
-}
-
 .card {
     background-color: var(--White);
     max-width: 330px;
