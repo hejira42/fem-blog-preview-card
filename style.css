@@ -29,8 +29,7 @@ body {
     border-radius: 25px;
     overflow: hidden;
     margin: 20px 20px;
-    padding: 25px;
-     
+    padding: 25px;    
 }
 
 .article-info {
@@ -63,10 +62,6 @@ body {
 .blog-post-link:hover {
     color: var(--Yellow);
     cursor: pointer;
-}
-
-.card a:hover {
-    filter: drop-shadow(10px 10px 0px #000000);
 }
 
 .synopsis {
